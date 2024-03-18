@@ -1,3 +1,4 @@
-# dataParser
+# Data Parser Project
 
-This code reads data from JSON files, parses the info, and creates a new file with the output info.
+In this project, we are given 2 JSON files with information about the company and users.
+We aim to process this information and create an output file with active users under each company.
